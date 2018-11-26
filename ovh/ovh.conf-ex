@@ -1,0 +1,11 @@
+[default]
+; general configuration: default endpoint
+endpoint=ovh-eu
+
+[ovh-eu]
+; Application name: hashicorppourlesnoobs
+; Application Description: hashicorppourlesnoobs
+; configuration specific to 'ovh-eu' endpoint
+application_key=
+application_secret=
+;consumer_key=
