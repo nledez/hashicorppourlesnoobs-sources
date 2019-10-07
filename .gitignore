@@ -1,3 +1,14 @@
 vagrant/Vagrantfile
 vagrant/package.box
 *.log
+terraform/.terraform/
+terraform/.venv/
+terraform/le_account.key
+terraform/le_tls_certificate.pem
+terraform/le_tls_chain_certificate.pem
+terraform/le_tls_issuer_certificate.pem
+terraform/le_tls_private_key.pem
+terraform/ovh.conf
+terraform/ovh.sh
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
