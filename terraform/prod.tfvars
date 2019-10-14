@@ -1,3 +1,3 @@
 parent_domain = "hashicorp4noobs.fr"
-subdomain = "tools"
+subdomain = "prod-tools"
 le_email = "letsencrypt@hashicorp4noobs.fr"
