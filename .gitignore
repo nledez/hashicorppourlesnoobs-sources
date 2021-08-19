@@ -1,5 +1,10 @@
+selenium/archive/
+selenium/consul-1.10.0/
+selenium/consul/
+selenium/venv/
 vagrant/Vagrantfile
 vagrant/package.box
+vagrant/.vagrant/
 *.log
 terraform/.terraform/
 terraform/.venv/
